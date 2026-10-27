@@ -9,8 +9,14 @@ permission of the copyright holder.
 The released add-ins (the .xll files and the scripts that come with them in a release of
 https://github.com/juihn/tinykit-excel-releases) are licensed, not sold, under these terms:
 
-1. Use. You may install and use the released add-ins, free of charge, on any number of computers, for personal or
-   business use.
+1. Use.
+   a. Personal use is free of charge. You may install and use the released add-ins on any number of computers you
+      own, as an individual, for your own non-commercial purposes.
+   b. Business use needs a paid license. Business use is any use by or for a company, organization, government body or
+      other legal entity, or in the course of employment, a business, a profession or paid work, whether or not the
+      computer belongs to you. For a business license, write to the copyright holder through
+      https://github.com/juihn/tinykit-excel-releases/issues; its terms (price, number of users) are agreed in
+      writing and add to this license.
 
 2. Restrictions. You may not:
    a. copy or distribute them, or make them available to others, other than by pointing them to the releases page

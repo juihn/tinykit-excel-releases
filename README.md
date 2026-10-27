@@ -42,4 +42,4 @@ otherwise in `%LocalAppData%\tinykit\Excel`; logs in `%LocalAppData%\tinykit\Exc
 
 ## License
 
-Free to use; see [LICENSE.txt](LICENSE.txt). Third-party components: [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
+Free for personal use; business use needs a paid license (ask through [Issues](https://github.com/juihn/tinykit-excel-releases/issues)). See [LICENSE.txt](LICENSE.txt). Third-party components: [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
