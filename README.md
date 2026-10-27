@@ -13,6 +13,36 @@ Small add-ins for Excel on Windows. They all add their groups to one **tinykit**
 **Ctrl+Alt+Q** searches the commands of every tinykit add-in. **Settings > Custom Shortcuts** turns each keyboard
 shortcut on or off. Tips of tinykit's own commands start with "[tinykit]".
 
+### Main: Chart Editor
+
+The vertical axis's Min changed, and the chart follows at once.
+
+![Chart Editor](Screenshots/Main.gif)
+
+### Styles
+
+A style from the gallery, then a favorite.
+
+![Styles](Screenshots/Styles.gif)
+
+### Tree
+
+Two letters in WorkbookTree's search, and a match picked goes there.
+
+![Tree](Screenshots/Tree.gif)
+
+### Trace
+
+Trace Tree a level down and back up with ← and →, the tracer arrows following on the sheet.
+
+![Trace](Screenshots/Trace.gif)
+
+### DragScroll
+
+Ctrl+Alt+drag scrolls the sheet.
+
+![DragScroll](Screenshots/DragScroll.gif)
+
 ## Requirements
 
 - Windows, Excel for Microsoft 365 or Excel 2016 or later (64-bit or 32-bit).
