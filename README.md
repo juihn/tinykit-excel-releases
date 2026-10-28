@@ -33,7 +33,8 @@ Two letters in WorkbookTree's search, and a match picked goes there.
 
 ### Trace
 
-Trace Tree a level down and back up with ← and →, the tracer arrows following on the sheet.
+Trace Tree down a level at a time with ← and back up with →, from Profit and Loss through Revenue Build to
+Assumptions: Excel goes to each cell, the tracer arrows following.
 
 ![Trace](Screenshots/Trace.gif)
 
