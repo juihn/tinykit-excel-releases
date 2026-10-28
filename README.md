@@ -4,7 +4,7 @@ Small add-ins for Excel on Windows. They all add their groups to one **tinykit**
 
 | Add-in | What it does |
 |---|---|
-| **Ribbon** | The tinykit tab's working groups: File, Settings, Groups, Format, Color, Border, Objects, Layout, Formula, Data, Review, View and Tools - column widths, number formats, named colors, border pen, Fit Objects to Cells, the **Chart Editor** (a chart's title, axes, legend and series in one window, each change shown at once), Quick Layout, names tools, Customize View and more. Shift+click on a group's launcher shows or hides the labels of its tinykit buttons (**Settings > Toggle All tinykit Button Labels**: every group's). |
+| **Main** (`tinykit.Excel.xll`) | The main add-in: the tinykit tab's working groups: File, Settings, Groups, Format, Color, Border, Objects, Layout, Formula, Data, Review, View and Tools - column widths, number formats, named colors, border pen, Fit Objects to Cells, the **Chart Editor** (a chart's title, axes, legend and series in one window, each change shown at once), Quick Layout, names tools, Customize View and more. Shift+click on a group's launcher shows or hides the labels of its tinykit buttons (**Settings > Toggle All tinykit Button Labels**: every group's). |
 | **Styles** | The Styles group: the workbook's cell styles, six favorites, a style library that new workbooks take in, and Clean Up Styles. |
 | **Tree** | *WorkbookTree*: a pane with the workbook's names, charts, tables and sheets, and each sheet's outline; selecting a node goes to it. It opens with every workbook (Settings > Open with every workbook to turn off) and its font can be picked. |
 | **Trace** | Tracer arrows one level more or fewer for every selected cell (Alt+Z, Alt+X; with Shift fewer; Alt+C removes them), and the **Trace Tree** pane: a cell's precedents or dependents as a tree, with values, headings and formulas. |
@@ -59,7 +59,7 @@ Ctrl+Alt+drag scrolls the sheet.
 
 The add-ins are copied to `%LocalAppData%\tinykit\Excel\AddIns` for the current user (no administrator rights needed)
 and load when Excel starts. To install only some of them, run in PowerShell:
-`.\Install.ps1 -AddIn Ribbon,Trace`. To update, install the newer release the same way.
+`.\Install.ps1 -AddIn Main,Trace` (in 0.3.0 and earlier the main add-in is `Ribbon`: `-AddIn Ribbon,Trace`). To update, install the newer release the same way.
 
 ## Uninstall
 
